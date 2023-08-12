@@ -3,7 +3,9 @@
 با قدرت شروع میکنم
 اول تر اول تر از همه ممنونم از Af که گذاشت  کدهایش برای این اسکریپت استفاده کنم.
 کد های موردنیاز:
+
 apt update 
+
 apt upgrade
 pkg install git 
 pkg install python

@@ -1,4 +1,4 @@
-
+۸
 با قدرت شروع میکنم
 
 
@@ -41,5 +41,4 @@ I AM X-62
 
 شات از اسکریپت:
 
-
-https://github.dev/X-62/Sms-X/blob/main/README.md
+https://github.com/X-62/Sms-X/blob/main/IMG_20230812_141929_521.jpg

@@ -42,3 +42,4 @@ I AM X-62
 شات از اسکریپت:
 
 
+https://github.dev/X-62/Sms-X/blob/main/README.md

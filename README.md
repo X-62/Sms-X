@@ -27,6 +27,9 @@ pip install urllib3
 
 git clone https://github.com/X-62/Sms-X
 
+ls
+
+cd Sms-X
 
 python sms.py
 

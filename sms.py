@@ -1646,7 +1646,7 @@ y='\033[1;33m'
 
 w='\033[1;37m'
 
-printLow(f'{r}▒█▀▀▀█ ░▀░ █▀▀█ ▒█▀▀█ █░░█ ░▀░ █▀▀ █░░█\n{w}░▀▀▀▄▄ ▀█▀ █▄▄▀ ▒█▄▄█ █▀▀█ ▀█▀ ▀▀█ █▀▀█\n{g}▒█▄▄▄█ ▀▀▀ ▀░▀▀ ▒█░░░ ▀░░▀ ▀▀▀ ▀▀▀ ▀░░▀\n\n{y}X-62:\n    {g}[+] telegram{y} {w}???\n{g}    [+] {y}rubika: {w}@X62_511 \n{y}system:\n    {g}[+] {y}Platform: {w}{System}\n    {g}[+] {y}Node: {w}{Node}\n    {g}[+] {y}Release: {w}{Release}\n\n')
+printLow(f'{r}▒█▀▀▀█ ░▀░ █▀▀█ ▒█▀▀█ █░░█ ░▀░ █▀▀ █░░█\n{w}░▀▀▀▄▄ ▀█▀ █▄▄▀ ▒█▄▄█ █▀▀█ ▀█▀ ▀▀█ █▀▀█\n{g}▒█▄▄▄█ ▀▀▀ ▀░▀▀ ▒█░░░ ▀░░▀ ▀▀▀ ▀▀▀ ▀░░▀\n\n{y}X-62:\n    {g}[+] telegram{y} {w}???\n{g}    [+] {y}rubika: {w}@bio_X62 \n{y}system:\n    {g}[+] {y}Platform: {w}{System}\n    {g}[+] {y}Node: {w}{Node}\n    {g}[+] {y}Release: {w}{Release}\n\n')
 
 def Vip(phone, Time):
 

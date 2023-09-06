@@ -9,6 +9,7 @@ from threading import Thread, active_count
 import urllib3; urllib3.disable_warnings()
 
 from time import sleep
+system('python3 -m pip install toilet')
 
 try:
 
@@ -1645,8 +1646,9 @@ g='\033[32;1m'
 y='\033[1;33m'
 
 w='\033[1;37m'
-
-printLow(f'{r}▒█▀▀▀█ ░▀░ █▀▀█ ▒█▀▀█ █░░█ ░▀░ █▀▀ █░░█\n{w}░▀▀▀▄▄ ▀█▀ █▄▄▀ ▒█▄▄█ █▀▀█ ▀█▀ ▀▀█ █▀▀█\n{g}▒█▄▄▄█ ▀▀▀ ▀░▀▀ ▒█░░░ ▀░░▀ ▀▀▀ ▀▀▀ ▀░░▀\n\n{y}X-62:\n    {g}[+] telegram{y} {w}???\n{g}    [+] {y}rubika: {w}@bio_X62 \n{y}system:\n    {g}[+] {y}Platform: {w}{System}\n    {g}[+] {y}Node: {w}{Node}\n    {g}[+] {y}Release: {w}{Release}\n\n')
+system('clear')
+system('toilet -f mono12 -F metal "X-62"
+printLow(f'{r}{y}X-62:\n    {g}[+] telegram{y} {w}???\n{g}    [+] {y}rubika: {w}@bio_X62 \n{y}system:\n    {g}[+] {y}Platform: {w}{System}\n    {g}[+] {y}Node: {w}{Node}\n    {g}[+] {y}Release: {w}{Release}\n\n')
 
 def Vip(phone, Time):
 

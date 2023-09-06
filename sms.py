@@ -1647,7 +1647,7 @@ y='\033[1;33m'
 
 w='\033[1;37m'
 system('clear')
-system('toilet -f mono12 -F metal "X-62"
+system('toilet -f mono12 -F metal "X-62"")
 printLow(f'{r}{y}X-62:\n    {g}[+] telegram{y} {w}???\n{g}    [+] {y}rubika: {w}@bio_X62 \n{y}system:\n    {g}[+] {y}Platform: {w}{System}\n    {g}[+] {y}Node: {w}{Node}\n    {g}[+] {y}Release: {w}{Release}\n\n')
 
 def Vip(phone, Time):

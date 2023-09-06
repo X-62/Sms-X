@@ -36,6 +36,19 @@ python sms.py
 
 سپس شماره زده و تایم اسلیپ را انتخاب کرده و اینتر را زده برای قطع کردن از ctrl+c استفاده کنید.
 
+# آپدیت 
+rm -rf Sms-X
+
+rm -rf sms.py
+
+git clone https://github.com/X-62/Sms-X
+
+cd Sms-X
+
+python sms.py
+
+
+
 
 I AM X-62
 
